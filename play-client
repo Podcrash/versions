@@ -1,5 +1,7 @@
 {
     "latest_version":"1.4.59",
+    "required_version":"1.4.59",
+    "download_page_url":"https://podcrash.com/project/podcrashplus/",
     "dl":"https://podcrash.com/download/podcrash/?wpdmdl=9522&masterkey=5ecdb00a0af77",
     "SHA-256":"07482c09c4d22681f6ff18478ab8ab082f24aa8512d50c1fef3521e33c2c536c"
 }
