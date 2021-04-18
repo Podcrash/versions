@@ -2,9 +2,9 @@
     "pdc+_info_comment":"Latest version info used by the old Podcrash+ autoupdater. Do not edit.",
     "latest_version":"1.4.61",
     "dl":"https://podcrash.com/download/podcrash/?wpdmdl=9522&masterkey=5ecdb00a0af77",
-    "SHA-256":"242b7cf28ccaeb30ad9d939e30b84a292983796e839fd1e8704d70dd9ce4a3d4"
+    "SHA-256":"242b7cf28ccaeb30ad9d939e30b84a292983796e839fd1e8704d70dd9ce4a3d4",
     
     "server_info_comment":"Info used by the Podcrash Play server to determine valid clients",
     "required_version":"2.0.0",
-    "download_page_url":"https://podcrash.com/play/",
+    "download_page_url":"https://podcrash.com/play/"
 }
